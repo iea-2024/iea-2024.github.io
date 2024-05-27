@@ -66,7 +66,7 @@ SELECT * FROM testcoll WHERE fld2 LIKE '12%'
 SELECT * FROM testcoll WHERE fld3 LIKE '12%'
 ```
 
-{{% /panel %}}
+{{% /exc %}}
 
 テーブル定義に collation を書き込んでしまうと，
 原則的にその collation に従って検索が行われる．
@@ -144,7 +144,7 @@ http://kanji-database.sourceforge.net/variants/variants.txt
 
 
 
-{{% /panel %}}
+{{% /exc %}}
 
 
 
